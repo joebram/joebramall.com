@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-**Service and product designer**
+## **Service and product designer**
 
 Currently working at [FutureGov](http://www.wearefuturegov.com/), designing services fit for the 21st century. I'm also a co-founder of [NUX](https://nuxuk.org/) Liverpool and GovJam Liverpool, I volunteer my skills at various UX and service design events around the UK.
 
