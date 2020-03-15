@@ -119,6 +119,11 @@ main > section > article > * {
 	margin-bottom: .5em;
 }
 
+/* Images */
+img {
+	max-width: 100%;
+}
+
 /* Post Tags */
 a[rel="tag"],
 a[rel="tag"]:visited {
