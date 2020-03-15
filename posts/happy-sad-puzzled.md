@@ -17,7 +17,7 @@ Our work at FutureGov is emotional. Focusing on emotion and the human element he
 
 Over the weekend I was listening to an [NPR podcast](https://www.npr.org/podcasts/510308/hidden-brain)called ‘Hidden Brain’. The episode I listened to was called ‘[I’m Right, You’re Wrong](https://one.npr.org/?sharedMediaId=519234721:520046420)’ and within it was this quote:
 
-> ***“You can control other people’s state of mind if you elicit an emotional response, you can change their perceptions and they will take information onboard”***.
+> *“You can control other people’s state of mind if you elicit an emotional response, you can change their perceptions and they will take information onboard”*.
 
 This became more apparent during a recent show and tell.
 
