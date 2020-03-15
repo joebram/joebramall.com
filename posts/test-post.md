@@ -6,3 +6,5 @@ tags:
   - post
 ---
 **Test** text
+
+![](/static/img/logo.png)
