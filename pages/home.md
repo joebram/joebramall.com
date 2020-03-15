@@ -7,14 +7,10 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+**Service and product designer**
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+Currently working at [FutureGov](http://www.wearefuturegov.com/), designing services fit for the 21st century. I'm also a co-founder of [NUX](https://nuxuk.org/) Liverpool and GovJam Liverpool, I volunteer my skills at various UX and service design events around the UK.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+Skills include: Service design, information architecture, user research, ideation, visual design, prototyping and usability testing.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+I use a broad range of tools and processes to make sure my work always meets user's needs.
