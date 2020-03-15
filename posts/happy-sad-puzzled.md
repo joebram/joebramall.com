@@ -13,6 +13,8 @@ tags:
 ---
 Our work at FutureGov is emotional. Focusing on emotion and the human element helps us to create value in our outputs and better outcomes for our users. Human emotions are powerful and we want to face each problem one emotional user journey at a time.
 
+![Journey map](/static/img/1_s3ax8etq72gsf5jauhvfdw.jpeg "Journey map")
+
 Over the weekend I was listening to an [NPR podcast](https://www.npr.org/podcasts/510308/hidden-brain)called ‘Hidden Brain’. The episode I listened to was called ‘[I’m Right, You’re Wrong](https://one.npr.org/?sharedMediaId=519234721:520046420)’ and within it was this quote:
 
 > ***“You can control other people’s state of mind if you elicit an emotional response, you can change their perceptions and they will take information onboard”***.
