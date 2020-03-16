@@ -1,7 +1,7 @@
 <section>
 module.exports = function(eleventyConfig) {
   // Get only content that matches a tag
-  eleventyConfig.addCollection("work", function(collection) {
+  eleventyConfig.addCollection("post", function(collection) {
     return collection.getFilteredByTags("futuregov");
   });
 };
