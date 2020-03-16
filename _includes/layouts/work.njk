@@ -7,4 +7,5 @@ permalink: /work/index.html
 
 {{ layoutContent | safe }}
 
-{% include "components/postslist-work.njk" %}
+{% set postslist = collections.post %}
+{% include "components/postslist.njk" %}
