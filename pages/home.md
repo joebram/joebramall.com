@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ![](/static/img/joebramweb.jpg)
 
-I'm currently working at [FutureGov](http://www.wearefuturegov.com/), designing services fit for the 21st century. I'm also a co-founder of [NUX](https://nuxuk.org/) Liverpool and GovJam Liverpool, I volunteer my skills at various UX and service design events around the UK.
+I'm currently working at [FutureGov](http://www.wearefuturegov.com/), designing services fit for the 21st century. I'm also a co-founder of [NUX](https://nuxuk.org/) Liverpool and [GovJam Liverpool](https://www.liverpoolgovjam.uk/), I volunteer my skills at various UX and service design events around the UK.
 
 Skills include: Service design, information architecture, user research, ideation, visual design, prototyping and usability testing.
 
