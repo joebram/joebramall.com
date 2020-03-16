@@ -9,3 +9,10 @@ permalink: /work/index.html
 
 {% set postslist = collections.post %}
 {% include "components/postslist.njk" %}
+
+module.exports = function(eleventyConfig) {
+  // Get only content that matches a tag
+  eleventyConfig.addCollection("work", function(collection) {
+    return collection.getFilteredByTags("futuregov");
+  });
+};
