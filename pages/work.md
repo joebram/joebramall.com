@@ -7,5 +7,3 @@ eleventyNavigation:
   key: Work
   order: 4
 ---
-
-<h1>Title</h1>
